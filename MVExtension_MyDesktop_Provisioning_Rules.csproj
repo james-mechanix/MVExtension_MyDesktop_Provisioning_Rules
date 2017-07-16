@@ -86,9 +86,12 @@
     <Compile Include="AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Helper.cs" />
     <Compile Include="MVExtension_MyDesktop_Provisioning_Rules.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MyDesktopUser.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
